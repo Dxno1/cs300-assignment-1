@@ -12,7 +12,7 @@ The component is a FocusDesk Study Planner product card designed for college stu
 
 ## Live Site
 
-GitHub Pages URL:
+GitHub Pages URL: https://github.com/Dxno1/cs300-assignment-1#live-site
 
 ## Design Choices
 I've ‌made ‌the ‌product card simple and clean. It has the image of the product, the product name, price, description, five product features and Add to Cart button.
